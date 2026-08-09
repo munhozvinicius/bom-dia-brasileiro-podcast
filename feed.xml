@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Bom Dia Brasileiro</title>
+    <link>https://munhozvinicius.github.io/bom-dia-brasileiro-podcast/</link>
+    <description>Um radar cultural matinal com histórias de discos, artistas, literatura, cinema, teatro e invenção brasileira.</description>
+    <language>pt-BR</language>
+    <atom:link href="https://munhozvinicius.github.io/bom-dia-brasileiro-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Bom Dia Brasileiro</itunes:author>
+    <itunes:summary>Um radar cultural matinal com histórias de discos, artistas, literatura, cinema, teatro e invenção brasileira.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts" />
+    </itunes:category>
+    <itunes:image href="https://munhozvinicius.github.io/bom-dia-brasileiro-podcast/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Vinicius Munhoz</itunes:name>
+      <itunes:email>munhoz.vinicius@gmail.com</itunes:email>
+    </itunes:owner>
+
+  </channel>
+</rss>
